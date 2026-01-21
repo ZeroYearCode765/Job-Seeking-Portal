@@ -1,4 +1,4 @@
-6651
+6653
 147D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-dom\cjs\react-dom-server-legacy.browser.development.js134132620326160449 0
 93D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\base-x134132620830159400 1
 86D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\package.json134133505442253122 0
@@ -11,6 +11,11 @@
 139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js134132620854646167 0
 96D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\commander134132620833232591 1
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react\compiler-runtime.js134132617817301045 0
+114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmpack134133505423910165 1
+128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\semver\functions\diff.js134133505406507646 0
+111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\fund.js134133505408118124 0
+118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\MP.js134132620858261398 0
+85D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\Home.js134134354752394678 0
 114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\transformer-svg\lib134132620829156145 1
 128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-event.js134132620854920169 0
 135D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-router\dist\development\chunk-FNSCYPCZ.mjs134133505439322524 0
@@ -24,13 +29,13 @@
 94D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\globals134132620831201799 1
 105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\plugin\src134132620830959906 1
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\semver\ranges\to-comparators.js134132620836575541 0
-85D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\main.js134133519544153073 0
+85D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\main.js134134349670966638 0
 133D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\addeventlistener.js134132620832568885 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\NO.js134132620859228120 0
 116D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\autoprefixer\lib\processor.js134132633174111563 0
 140D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\background-position-x-y.js134132620839660088 0
 111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\utility-types\SUPPORT.md134132620833569890 0
-87D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\Header.js134133517176779888 0
+87D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\Header.js134134343480399483 0
 119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\.bin\semver.ps1134133505442058917 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\@sigstore\bundle\dist\index.js134133505409361540 0
 146D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c134132620839293347 0
@@ -49,8 +54,8 @@
 111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\is-cidr134133505420620111 1
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\runtime-rsc\lib\RSCRuntime.js134132620829480178 0
 131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\@sigstore\core\dist\dsse.js134133505406762387 0
-77D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src134133516539643107 1
-78D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist134133519546042521 1
+77D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src134134344291763603 1
+78D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist134134354757891061 1
 148D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\packaging\requirements.py134133505425560070 0
 116D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\postcss\lib\no-work-result.js134132633173397821 0
 128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\@sigstore\tuf\seeds.json134133505422044570 0
@@ -63,6 +68,13 @@
 95D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr134132620836922732 1
 103D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\clone\.npmignore134132620829143972 0
 86D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules134133505397086498 1
+93D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@lezer134132620812053282 1
+118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\KZ.js134132620856398362 0
+129D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\make-fetch-happen\LICENSE134133505399161785 0
+141D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\packaging\py.typed134133505426539549 0
+104D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\LICENSE134132620324247794 0
+139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-router\dist\development\index-react-server.mjs134133505439469624 0
+87D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\src\Footer.js134134342221071625 0
 92D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react134132617818084625 1
 111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\man\man1\npm-query.1134133505400854302 0
 125D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\docs\content\commands\npm-audit.md134133505422805308 0
@@ -135,9 +147,6 @@
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\start.js134133505417116201 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmteam\lib134133505410622423 1
 135D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-dom\cjs\react-dom-test-utils.production.js134132620327886444 0
-93D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@lezer134132620812053282 1
-118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\KZ.js134132620856398362 0
-129D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\make-fetch-happen\LICENSE134133505399161785 0
 127D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\text-table\package.json134133505421789500 0
 113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\graph\lib\Graph.js134132620833390331 0
 126D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\utility-types\dist\utility-types.js.map134132620833091592 0
@@ -166,17 +175,6 @@
 125D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\diff\release-notes.md134133505424102219 0
 132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\gen-mapping\types\types.d.mts.map134133491115512384 0
 104D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@msgpackr-extract134132620812040169 1
-122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\debug\src\index.js134133505410169405 0
-105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-releases\data134132620830678540 1
-118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\SE.js134132620862352980 0
-130D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\text-overflow.js134132620864130787 0
-148D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\qrcode-terminal\vendor\QRCode\QRBitBuffer.js134133505415270500 0
-131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\remapping\types\source-map.d.mts134133491116801127 0
-120D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\encoding\LICENSE134133505398895359 0
-119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-gyp-build-optional-packages134132620831243663 1
-162D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json134132620831408812 0
-117D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\type-fest\ts41\camel-case.d.ts134132620832064643 0
-115D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\weak-lru-cache\tests\test.js134132620831336108 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@swc\helpers\src\_object_without_properties.mjs134132620850605856 0
 94D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel134132620812053282 1
 119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\update-browserslist-db\README.md134132620831383890 0
@@ -218,14 +216,6 @@
 121D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\tapable\lib\AsyncSeriesBailHook.js134133491116322383 0
 135D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmpublish\lib\provenance.js134133505415134545 0
 92D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\chalk134132620831699522 1
-105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\fs\LICENSE134132620828796617 0
-119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\term-size\vendor\macos\term-size134132620831123150 0
-121D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\.bin\node-gyp.cmd134133505441311018 0
-100D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-releases134132620831191717 1
-121D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\resolve-uri\dist\types134133491115454238 1
-123D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\transformer-svg\package.json134132620830348659 0
-169D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\gyp\__pycache__\xcodeproj_file.cpython-313.pyc134133505426428152 0
-105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\chrome-trace-event134132620831201799 1
 111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\cookie\dist\index.js.map134133505436443909 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\remapping\README.md134133491116729809 0
 120D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\core\src\public\Target.js134132620843572373 0
@@ -234,6 +224,14 @@
 140D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\minimatch\dist\commonjs\package.json134133505420895868 0
 100D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\color-convert134132620831323738 1
 137D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\iconv-lite\encodings\dbcs-data.js134133505406044734 0
+105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\fs\LICENSE134132620828796617 0
+119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\term-size\vendor\macos\term-size134132620831123150 0
+121D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\.bin\node-gyp.cmd134133505441311018 0
+100D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-releases134132620831191717 1
+121D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\resolve-uri\dist\types134133491115454238 1
+123D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\transformer-svg\package.json134132620830348659 0
+169D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\gyp\__pycache__\xcodeproj_file.cpython-313.pyc134133505426428152 0
+105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\chrome-trace-event134132620831201799 1
 106D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\postcss\lib\rule.js134132633173464227 0
 163D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134132620870301502 0
 128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js134132620829945012 0
@@ -332,6 +330,17 @@
 132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\css-placeholder.js134132620848120827 0
 91D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\lmdb134132620844734848 1
 131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\cjs\scheduler.native.production.js134132620324724687 0
+122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\debug\src\index.js134133505410169405 0
+105D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-releases\data134132620830678540 1
+118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\SE.js134132620862352980 0
+130D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\text-overflow.js134132620864130787 0
+148D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\qrcode-terminal\vendor\QRCode\QRBitBuffer.js134133505415270500 0
+131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\remapping\types\source-map.d.mts134133491116801127 0
+120D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\encoding\LICENSE134133505398895359 0
+119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\node-gyp-build-optional-packages134132620831243663 1
+162D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json134132620831408812 0
+117D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\type-fest\ts41\camel-case.d.ts134132620832064643 0
+115D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\weak-lru-cache\tests\test.js134132620831336108 0
 119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\lmdb\dependencies\lmdb\libraries134132620831225832 1
 141D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\promise-all-reject-late\test\index.js134133505411337264 0
 130D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\ambient-light.js134132620835561901 0
@@ -999,7 +1008,7 @@
 139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\lib\find-node-directory.js134133505407929417 0
 122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\tailwindcss\dist\chunk-GFBUASX3.mjs134133487944171807 0
 126D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\minimatch\package.json134133505420922870 0
-114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.61d3354a.css.map134133518985117861 0
+114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.61d3354a.css.map134134354757891061 0
 122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\tailwindcss\dist\chunk-HTB5LLOP.mjs134133487944175837 0
 149D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\socks\docs\examples\typescript\bindExample.md134133505422171152 0
 119D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-dom\static.react-server.js134132620328131322 0
@@ -1318,9 +1327,6 @@
 146D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\@npmcli\package-json\lib\update-scripts.js134133505418437977 0
 114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\enhanced-resolve\types.d.ts134133491117131295 0
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\index.native.js134132620324296455 0
-141D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\packaging\py.typed134133505426539549 0
-104D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\LICENSE134132620324247794 0
-139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-router\dist\development\index-react-server.mjs134133505439469624 0
 109D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\package.json134132620324908051 0
 125D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\bloburls.js134132620840566480 0
 128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\unique-slug\lib\index.js134133505411828367 0
@@ -1341,10 +1347,10 @@
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\semver\functions\prerelease.js134133505414983350 0
 144D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\tar\dist\commonjs\strip-absolute-path.js134133505417251092 0
 141D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\exponential-backoff\dist\delay\always134133505403677092 1
-132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\cjs\scheduler.native.development.js134132620324647185 0
-139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js134132620850188516 0
 122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\promise-call-limit134133505421408580 1
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\magic-string\dist\magic-string.umd.js134133491116114671 0
+139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js134132620850188516 0
+132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\scheduler\cjs\scheduler.native.development.js134132620324647185 0
 142D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\docs\UserDocumentation.md134133505424223566 0
 133D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\validate-npm-package-name\lib134133505411869524 1
 113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-refresh\package.json134132620832201049 0
@@ -1388,8 +1394,6 @@
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\lib\list.js134133505412807921 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-router\dist\production\chunk-QCD7HIN2.mjs134133505439364537 0
 129D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\just-diff-apply\index.cjs134133505401570770 0
-131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\tinyglobby\dist\index.d.cts134133505401701285 0
-114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react\react.react-server.js134132617817997697 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmpublish\lib\unpublish.js134133505418364148 0
 136D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\css-optional-pseudo.js134132620847838277 0
 109D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\debug134133505420327227 1
@@ -1592,12 +1596,12 @@
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@lmdb\lmdb-win32-x64\node.abi115.node134132620833148223 0
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react-dom\cjs\react-dom.production.js134132620327936657 0
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\ip-regex134133505420608594 1
+123D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\pacote\lib\index.js134133505411181177 0
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\cacache\lib\index.js134133505410010912 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\archy\examples134133505413419660 1
 130D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\@sigstore\core\dist\pem.js134133505414744219 0
 113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@parcel\workers\index.d.ts134132620838430323 0
 96D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react\cjs134132617817997697 1
-123D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\pacote\lib\index.js134133505411181177 0
 123D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\gen-mapping\src\types.ts134133491115672506 0
 142D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\tar\node_modules\yallist\dist\commonjs134133505421742720 1
 120D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@jridgewell\trace-mapping\LICENSE134133491115335587 0
@@ -1615,6 +1619,8 @@
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@swc\helpers\src\_read_only_error.mjs134132620850691350 0
 120D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react\jsx-runtime.react-server.js134132617817399065 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr\dist\index-no-eval.cjs134132620829932150 0
+131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\tinyglobby\dist\index.d.cts134133505401701285 0
+114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\react\react.react-server.js134132617817997697 0
 167D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\gyp\__pycache__\ninja_syntax.cpython-313.pyc134133505426189759 0
 132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\docs\output\commands\npm-help-search.html134133505402244514 0
 155D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\postcss-selector-parser\dist\selectors\container.js134133505405806632 0
@@ -1988,8 +1994,6 @@
 127D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\semver\functions\cmp.js134133505405407817 0
 113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmorg134133505423900048 1
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\man\man1\npm-search.1134133505400927990 0
-114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmpack134133505423910165 1
-128D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\semver\functions\diff.js134133505406507646 0
 117D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmpublish134133505423920445 1
 142D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\pylib\gyp\ninja_syntax.py134133505425484243 0
 116D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\libnpmsearch134133505423935145 1
@@ -2455,13 +2459,13 @@
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\utils\get-workspaces.js134133505408285908 0
 107D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr\SECURITY.md134132620836779074 0
 137D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\socks\build\client\socksclient.js134133505417014517 0
-122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\cacache\lib\get.js134133505408345909 0
-137D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\smart-buffer\build\smartbuffer.js134133505416979242 0
 114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@swc\helpers\_\_ts_metadata134132620848607462 1
 133D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\path-scurry\dist\esm\index.js134133505411253471 0
 104D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data134132620851653815 1
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\EG.js134132620851105094 0
 124D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\node-gyp\gyp\LICENSE134133505399486338 0
+137D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\smart-buffer\build\smartbuffer.js134133505416979242 0
+122D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\cacache\lib\get.js134133505408345909 0
 131D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\smart-buffer\build\utils.js134133505418690076 0
 125D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\node_modules\npm-pick-manifest\lib134133505411090265 1
 112D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\prune.js134133505415178623 0
@@ -4212,8 +4216,6 @@
 111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\exec.js134133505407554878 0
 125D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\msgpackr\dist\index-no-eval.min.js.map134132620835319483 0
 114D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\explain.js134133505407618944 0
-111D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\fund.js134133505408118124 0
-118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\regions\MP.js134132620858261398 0
 139D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js134132620856681089 0
 110D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\npm\lib\commands\get.js134133505408333977 0
 147D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs134132620849720654 0
@@ -5185,7 +5187,7 @@
 136D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-email-tel-url.js134132620854889747 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-file-accept.js134132620854946877 0
 136D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-file-multiple.js134132620855000315 0
-110D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.61d3354a.css134133518985094544 0
+110D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.61d3354a.css134134354167709690 0
 132D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-inputmode.js134132620855030774 0
 134D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-placeholder.js134132620855130199 0
 129D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\caniuse-lite\data\features\input-search.js134132620855191809 0
@@ -6647,6 +6649,6 @@
 102D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\.bin\parcel.ps1134132620870301502 0
 98D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\.bin\semver134132620870810344 0
 118D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\node_modules\.bin\update-browserslist-db.cmd134132620870940372 0
-89D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\index.html134133518985081520 0
-109D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.1fcc916e.js134133519545912367 0
-113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.1fcc916e.js.map134133519546022471 0
+89D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\index.html134134349315927792 0
+109D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.1fcc916e.js134134354753714649 0
+113D:\One Drive\OneDrive\Desktop\WebDev\FrontEnd Projects\Job Seeking Portal\dist\Job Seeking Portal.1fcc916e.js.map134134354753775871 0
