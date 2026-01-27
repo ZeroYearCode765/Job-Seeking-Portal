@@ -14,14 +14,14 @@ function Main() {
       <div className="min-h-screen flex flex-col">
         <Header />
 
-        <main className="flex-grow">
+        <main className="grow">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/jobs" element={<Jobs />} />
             <Route path="/applied" element={<Applied />} />
           </Routes>
         </main>
-        
+
         <Footer />
       </div>
     </BrowserRouter>

@@ -749,7 +749,7 @@ function Main() {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("main", {
-                    className: "flex-grow",
+                    className: "grow",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouter.Routes), {
                         children: [
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouter.Route), {
@@ -29025,13 +29025,139 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>Jobs);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _dummyData = require("../component/dummyData");
+var _dummyDataDefault = parcelHelpers.interopDefault(_dummyData);
 function Jobs() {
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-        children: "Hi"
-    }, void 0, false, {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "min-h-screen bg-gray-100 px-6 py-8",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                className: "text-3xl font-bold mb-6 text-center",
+                children: "Available Jobs"
+            }, void 0, false, {
+                fileName: "src/Jobs.js",
+                lineNumber: 9,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "grid gap-6 md:grid-cols-2 lg:grid-cols-3",
+                children: (0, _dummyDataDefault.default).map((job)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "bg-white p-6 rounded-lg shadow hover:shadow-lg transition",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                                className: "text-xl font-semibold mb-1",
+                                children: job.title
+                            }, void 0, false, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 17,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "text-gray-600 font-medium",
+                                children: job.company
+                            }, void 0, false, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 18,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "text-sm text-gray-500 mt-1",
+                                children: [
+                                    "\uD83D\uDCCD ",
+                                    job.location,
+                                    " \u2022 ",
+                                    job.type
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 20,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "text-sm mt-2",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        className: "font-semibold",
+                                        children: "Experience:"
+                                    }, void 0, false, {
+                                        fileName: "src/Jobs.js",
+                                        lineNumber: 25,
+                                        columnNumber: 15
+                                    }, this),
+                                    " ",
+                                    job.experience
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 24,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "text-sm",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        className: "font-semibold",
+                                        children: "Salary:"
+                                    }, void 0, false, {
+                                        fileName: "src/Jobs.js",
+                                        lineNumber: 30,
+                                        columnNumber: 15
+                                    }, this),
+                                    " ",
+                                    job.salary
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 29,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "mt-3 flex flex-wrap gap-2",
+                                children: job.skills.map((skill, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        className: "text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded",
+                                        children: skill
+                                    }, index, false, {
+                                        fileName: "src/Jobs.js",
+                                        lineNumber: 35,
+                                        columnNumber: 17
+                                    }, this))
+                            }, void 0, false, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 33,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "text-sm text-gray-600 mt-3",
+                                children: job.description
+                            }, void 0, false, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 44,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                className: "mt-4 w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition",
+                                children: "Apply"
+                            }, void 0, false, {
+                                fileName: "src/Jobs.js",
+                                lineNumber: 48,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, job.id, true, {
+                        fileName: "src/Jobs.js",
+                        lineNumber: 13,
+                        columnNumber: 11
+                    }, this))
+            }, void 0, false, {
+                fileName: "src/Jobs.js",
+                lineNumber: 11,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
         fileName: "src/Jobs.js",
-        lineNumber: 3,
-        columnNumber: 9
+        lineNumber: 8,
+        columnNumber: 5
     }, this);
 }
 _c = Jobs;
@@ -29043,7 +29169,135 @@ $RefreshReg$(_c, "Jobs");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"9GMeW":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","../component/dummyData":"hG6kC"}],"hG6kC":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+const jobsData = [
+    {
+        id: 1,
+        title: "Frontend Developer",
+        company: "Google",
+        location: "Bangalore",
+        experience: "0-2 years",
+        skills: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        salary: "6 - 10 LPA",
+        type: "Full-time",
+        description: "Work on modern, scalable UI using React and Tailwind CSS."
+    },
+    {
+        id: 2,
+        title: "Backend Developer",
+        company: "Amazon",
+        location: "Hyderabad",
+        experience: "1-3 years",
+        skills: [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        salary: "8 - 12 LPA",
+        type: "Full-time",
+        description: "Build scalable backend services and REST APIs."
+    },
+    {
+        id: 3,
+        title: "Software Engineer Intern",
+        company: "Microsoft",
+        location: "Remote",
+        experience: "Fresher",
+        skills: [
+            "DSA",
+            "JavaScript",
+            "React"
+        ],
+        salary: "25k / month",
+        type: "Internship",
+        description: "Internship opportunity for final year students."
+    },
+    {
+        id: 4,
+        title: "React Developer",
+        company: "Flipkart",
+        location: "Bangalore",
+        experience: "1-2 years",
+        skills: [
+            "React",
+            "Redux",
+            "Tailwind"
+        ],
+        salary: "7 - 11 LPA",
+        type: "Full-time",
+        description: "Develop high-performance UI components for e-commerce."
+    },
+    {
+        id: 5,
+        title: "Full Stack Developer",
+        company: "Infosys",
+        location: "Pune",
+        experience: "0-1 years",
+        skills: [
+            "React",
+            "Node.js",
+            "SQL"
+        ],
+        salary: "5 - 8 LPA",
+        type: "Full-time",
+        description: "Work across frontend and backend in enterprise projects."
+    },
+    {
+        id: 6,
+        title: "Java Developer",
+        company: "TCS",
+        location: "Mumbai",
+        experience: "Fresher",
+        skills: [
+            "Java",
+            "OOPs",
+            "SQL"
+        ],
+        salary: "4 - 6 LPA",
+        type: "Full-time",
+        description: "Entry-level Java role for fresh graduates."
+    },
+    {
+        id: 7,
+        title: "UI Developer",
+        company: "Swiggy",
+        location: "Bangalore",
+        experience: "1-3 years",
+        skills: [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        salary: "6 - 9 LPA",
+        type: "Full-time",
+        description: "Create clean and responsive user interfaces."
+    },
+    {
+        id: 8,
+        title: "Frontend Intern",
+        company: "Zomato",
+        location: "Remote",
+        experience: "Fresher",
+        skills: [
+            "HTML",
+            "CSS",
+            "React"
+        ],
+        salary: "20k / month",
+        type: "Internship",
+        description: "Hands-on frontend internship with real-world projects."
+    }
+];
+exports.default = jobsData;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9GMeW":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$e8d5 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$e8d5.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
