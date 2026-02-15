@@ -6,6 +6,8 @@ import Home from "./Home";
 import Jobs from "./Jobs";
 import Applied from "./Applied";
 import { BrowserRouter,Routes,Route } from "react-router";
+import { Provider } from "react-redux";
+import store from "./store";
 
 
 function Main() {
@@ -30,5 +32,7 @@ function Main() {
 }
 
 ReactDOM.createRoot(document.getElementById("root")).render(
+   <Provider store={store}>
     <Main/>
+  </Provider>
 )

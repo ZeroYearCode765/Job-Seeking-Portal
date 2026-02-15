@@ -1,55 +1,55 @@
 import jobsData from "../component/dummyData";
-
-
-import jobsData from "../component/dummyData";
+import { useDispatch, useSelector } from "react-redux";
+import { applyJob } from "./slicer";
 
 export default function Jobs() {
+  const dispatch = useDispatch();
+
+  const appliedJobs = useSelector(
+    (state) => state.appliedJobs.appliedJobs
+  );
+
   return (
     <div className="min-h-screen bg-gray-100 px-6 py-8">
-      <h1 className="text-3xl font-bold mb-6 text-center">Available Jobs</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">
+        Available Jobs
+      </h1>
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-        {jobsData.map((job) => (
-          <div
-            key={job.id}
-            className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition"
-          >
-            <h2 className="text-xl font-semibold mb-1">{job.title}</h2>
-            <p className="text-gray-600 font-medium">{job.company}</p>
+        {jobsData.map((job) => {
 
-            <p className="text-sm text-gray-500 mt-1">
-              📍 {job.location} • {job.type}
-            </p>
+          const isApplied = appliedJobs.some(
+            (item) => item.id === job.id
+          );
 
-            <p className="text-sm mt-2">
-              <span className="font-semibold">Experience:</span>{" "}
-              {job.experience}
-            </p>
+          return (
+            <div
+              key={job.id}
+              className="bg-white p-6 rounded-lg shadow"
+            >
+              <h2 className="text-xl font-semibold mb-1">
+                {job.title}
+              </h2>
 
-            <p className="text-sm">
-              <span className="font-semibold">Salary:</span> {job.salary}
-            </p>
+              <p className="text-gray-600 font-medium">
+                {job.company}
+              </p>
 
-            <div className="mt-3 flex flex-wrap gap-2">
-              {job.skills.map((skill, index) => (
-                <span
-                  key={index}
-                  className="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded"
-                >
-                  {skill}
-                </span>
-              ))}
+              <button
+                onClick={() => dispatch(applyJob(job))}
+                disabled={isApplied}
+                className={`mt-4 w-full py-2 rounded 
+                  ${
+                    isApplied
+                      ? "bg-gray-400 cursor-not-allowed"
+                      : "bg-blue-600 text-white"
+                  }`}
+              >
+                {isApplied ? "Applied" : "Apply"}
+              </button>
             </div>
-
-            <p className="text-sm text-gray-600 mt-3">
-              {job.description}
-            </p>
-
-            <button className="mt-4 w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition">
-              Apply
-            </button>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </div>
   );
